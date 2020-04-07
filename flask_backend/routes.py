@@ -18,6 +18,7 @@ def add_video():
     return None
 
 
+
 # Create a Accident
 @app.route('/add_accident', methods=['POST'])
 def add_accident():
